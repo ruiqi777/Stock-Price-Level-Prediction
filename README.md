@@ -1,2 +1,1 @@
-## Course project of APS 1052: AI in Finance: From Neural Networks to Deep Learning 
-### LSTM Stock Price Level Prediction
+## APS 1052 Course Project: LSTM Stock Price Level Prediction
